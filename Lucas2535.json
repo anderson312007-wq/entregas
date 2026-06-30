@@ -5,7 +5,7 @@
     {
       "id": 1782845774538.46,
       "endereco": "Avenida Princesa Diana 760 Alphaville Nova Lima",
-      "observacao": "COLETAR NA FDC ALPHAVILLE NA PORTARIA DEIXADO POR VANIA MARIA DA SILVA",
+      "observacao": "COLETAR NA FDC ALPHAVILLE NA PORTARIA DEIXADO POR VANIA MARIA DA SILVA E UM OUTRO MATERIAL DEIXADO POR ALEX VICTOR NO ALMOXARIFADO",
       "dataCadastro": "30/06/2026, 15:56:14",
       "status": "PENDENTE",
       "latitude": -20.1593375,
@@ -37,8 +37,17 @@
       "status": "PENDENTE",
       "latitude": -19.9374477,
       "longitude": -43.9573884
+    },
+    {
+      "id": 1782847682975.3093,
+      "endereco": "Rua viçosa 58 São Pedro Belo Horizonte",
+      "observacao": "Apto 1104 Mariana entregar o material do Alex coletado no almoxarifado",
+      "dataCadastro": "30/06/2026, 16:28:02",
+      "status": "PENDENTE",
+      "latitude": -19.9454938,
+      "longitude": -43.9389531
     }
   ],
   "concluidas": [],
-  "dataExportacao": "30/06/2026, 16:01:30"
+  "dataExportacao": "30/06/2026, 16:28:09"
 }
