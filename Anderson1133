@@ -1,49 +1,29 @@
 {
   "entregador": "Anderson1133",
-  "nomeCliente": "Laboratorio",
-  "imagemAppUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9VGzo-TGAdrwY11fUK-M7QX0e_m-HKFiXyAKhc4QFw&s",
+  "nomeCliente": "CAF DANIELE",
+  "imagemAppUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NOtKhMvN7FCl7k-A0W71fNu0jIcIr5UnO71HWp8oRQ&s=10",
   "pendentes": [
     {
       "id": 1,
-      "endereco": "Avenida Bernardo de Vasconcelos, 750, Belo Horizonte, MG",
-      "observacao": "377 BERNARDO VASCONCELOS"
+      "endereco": "Unimed Betim",
+      "observacao": "Coletar na caf com Sabrina para entregar na caf do HU CONTORNO para Daniele "
     },
     {
       "id": 2,
-      "endereco": "Avenida do Contorno, 2939, Santa Efigenia, Belo Horizonte, MG",
-      "observacao": "137 SANTA EFIGENIA"
+      "endereco": "Unimed Contagem",
+      "observacao": "Coletar na caf do HU CONTAGEM com Deivison para entregar na caf do HU CONTORNO para Daniele"
     },
     {
       "id": 3,
-      "endereco": "Rua Andre Cavalcanti, 222, Gutierrez, Belo Horizonte, MG",
-      "observacao": "16 GUTIERREZ"
+      "endereco": "Unimed GRAJAU",
+      "observacao": "Coletar na caf do HDMU GRAJAU com Renata para entregar na caf do HU CONTORNO para Daniele"
     },
     {
       "id": 4,
-      "endereco": "Rua Conceicao do Mato Dentro, 308, Sao Luiz, Belo Horizonte, MG",
-      "observacao": "21 OURO PRETO"
-    },
-    {
-      "id": 5,
-      "endereco": "R. Padre Eustaquio, 2208, Padre Eustaquio, Belo Horizonte, MG",
-      "observacao": "30 PADRE EUSTAQUIO"
-    },
-    {
-      "id": 6,
-      "endereco": "Rua Professor Estevao Pinto, 830, Serra, Belo Horizonte, MG",
-      "observacao": "38 SERRA"
-    },
-    {
-      "id": 7,
-      "endereco": "Rua Tiradentes, 2432, Industrial, Contagem - MG",
-      "observacao": "42 TIRADENTES"
-    },
-    {
-      "id": 8,
-      "endereco": "Av. Raja Gabaglia, 4427, Santa Lucia, Belo Horizonte, MG",
-      "observacao": "47 RAJA DRIVE"
+      "endereco": "Unimed contorno",
+      "observacao": "Entregar na caf do HU CONTORNO para Daniele"
     }
   ],
   "concluidas": [],
-  "dataExportacao": "09/07/2026, 20:08:15"
+  "dataExportacao": "11/07/2026, 01:59:13"
 }
