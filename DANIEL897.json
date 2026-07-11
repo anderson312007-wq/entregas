@@ -1,8 +1,39 @@
 {
-  "entregador": "DANIEL897",
-  "nomeCliente": "LABORATORIO",
-  "imagemAppUrl": "https://www.cbtaonline.com.br/images/logo.png",
-  "pendentes": [],
+  "entregador": "Daniel897",
+  "nomeCliente": "Laboratório",
+  "imagemAppUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_ckg-X94EgOv33srmhXFbcdbpbFuZ9PWCJPKCBbG3g&s=10",
+  "pendentes": [
+    {
+      "id": 1,
+      "endereco": "Av. Joao Cesar de Oliveira, 2788, Bairro da Gloria, Contagem, MG",
+      "observacao": "52 JOAO CESAR"
+    },
+    {
+      "id": 2,
+      "endereco": "Posto Chefao",
+      "observacao": "54 STOP CENTER"
+    },
+    {
+      "id": 3,
+      "endereco": "Rodovia Januario Carneiro, 2255, Ipe, Nova Lima, MG",
+      "observacao": "55 PONTO VERDE"
+    },
+    {
+      "id": 4,
+      "endereco": "Av. Professor Mario Werneck, 1340, Estoril, Belo Horizonte, MG",
+      "observacao": "59 ESTORIL"
+    },
+    {
+      "id": 5,
+      "endereco": "Rua Guaicui, 660, Coracao de Jesus, Belo Horizonte, MG",
+      "observacao": "68 GUAICUI"
+    },
+    {
+      "id": 6,
+      "endereco": "Av. Luiz Paulo Franco, 933, Belvedere, Belo Horizonte, MG",
+      "observacao": "72 SHOPPING BELVEDERE"
+    }
+  ],
   "concluidas": [],
-  "dataExportacao": "02/07/2026, 18:24:35"
+  "dataExportacao": "11/07/2026, 01:46:16"
 }
